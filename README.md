@@ -32,7 +32,7 @@ Here are some of my top projects:
 ## Frameworks/Libraries
 | React | Gatsby | Next.js | Angular |
 |---|---|---|---|
-| ![React](https://img.icons8.com/ultraviolet/48/000000/react.png) | ![Gatsby](https://img.icons8.com/color/48/000000/gatsbyjs.png) | ![Next.js](https://img.icons8.com/color/48/000000/next.png) | ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) |
+| ![React](https://img.icons8.com/ultraviolet/48/000000/react.png) | ![Gatsby](https://img.icons8.com/color/48/000000/gatsbyjs.png) | ![Next.js](https://raw.githubusercontent.com/Kosgkagiannis/Kosgkagiannis/main/next-js-icon-512x512-zuauazrk.png) | ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) |
 
 ## Android Development
 | Android Studio | Kotlin | React Native |
